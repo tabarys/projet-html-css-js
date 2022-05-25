@@ -1,4 +1,4 @@
-functiondireBonjour()
+function direBonjour()
 {
 alert("Bonjour");
 }
