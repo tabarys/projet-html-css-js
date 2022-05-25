@@ -1,1 +1,4 @@
-// Branch b1
+functiondireBonjour()
+{
+alert("Bonjour");
+}
